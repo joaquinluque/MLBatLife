@@ -3,9 +3,8 @@
 It contains five files:
    - readme.md: this readme file
    - MLBatLife_Pred.py: Python code for the machine learning-based predictor
-   - MLBatLife_Model.pkl: a machine learning model based on a trained Random Forest
-			  Model trained using scikit-learn 1.4
-   - input_profile_sample.csv: an example of an input profile
+   - MLBatLife_Model.pkl: a machine learning model based on a trained Random Forest, accesible [here](https://personal.us.es/jluque/MLBatLife/MLBatLife_Model.pkl). Model trained using scikit-learn 1.4
+   - input_profile_sample.csv: an example of an input profile, accesible [here](https://personal.us.es/jluque/MLBatLife/input_profile_sample.csv)
    - Using_MLBatLife_Pred.py: Python code of an example of using the predictor
 
 
@@ -46,8 +45,8 @@ Journal of Energy Storage.
 
 It requires:
    - The MLBatLife_Pred library
-   - A CSV file containing the input power profile (an example is provided in the file "input_profile_sample.csv")
+   - A CSV file containing the input power profile (an example is provided in the file "input_profile_sample.csv", accesible [here](https://personal.us.es/jluque/MLBatLife/input_profile_sample.csv))
    - The trained Machine Learning model used for estimating SOH
-        This model is provided in the file "MLBatLife_Model.pkl"
+        This model is provided in the file "MLBatLife_Model.pkl", accesible [here](https://personal.us.es/jluque/MLBatLife/input_profile_sample.csv)
 
 
